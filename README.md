@@ -38,3 +38,6 @@ battleship.exe
 ## Files
 - `main.c`: the game
 - `bug check.c`: an earlier draft kept for reference (it doesn't compile)
+
+## License
+Released under the [MIT License](LICENSE).
