@@ -2,6 +2,8 @@
 
 A single-player Battleship game for the Windows console, written in C. You play against the computer on two 10×10 boards, with colored output for hits, misses and sunk ships.
 
+![Battleship game in the console](screenshot.png)
+
 ## Features
 - Two 10×10 boards (yours and the opponent's), with the opponent's ships hidden
 - Five ships placed randomly for both sides:
